@@ -1,3 +1,10 @@
+#People
+
+#Juan Jose Bolaños Serna
+#Jesus Alberto Tunubala
+#Santiago Hernandez Aguado
+
+
 import random
 
 #Functions
